@@ -1,1 +1,1 @@
-# prst_week7
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DanielleQuinn/prst_week7/main?urlpath=rstudio)
